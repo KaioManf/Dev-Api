@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules",
+    "visualstudioexptteam.vscodeintellicode",
+    "luis.console-log",
+    "eamodio.gitlens",
+    "ravenq.vscode-goto-node-modules",
+    "styled-components.vscode-styled-components",
+    "naumovs.color-highlight",
+    "TabNine.tabnine-vscode"
+  ],
+  "unwantedRecommendations": []
+}
